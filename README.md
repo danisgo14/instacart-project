@@ -47,8 +47,7 @@ O trabalho foi desenvolvido em Jupyter Notebook, com foco em análise explorató
 git clone https://github.com/seu-usuario/instacart-project.git
 Instale as dependências:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Abra o notebook:
 
